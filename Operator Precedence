@@ -1,0 +1,10 @@
+When than one arithmetic operator appears in an expression, the operations will be 
+executed in a specific order.
+In Python, the operation precedence follows as per the acronym PEMDAS.
+
+P - Parenthesis
+E - Exponent 
+M - Multiplication 
+D - Division 
+A - Addition 
+S - Subtraction
